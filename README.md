@@ -2,7 +2,7 @@
 
 This project compares the performance of Anthropic Claude 3.5 with and without caching using Weights & Biases [Weave](http://wandb.me/weave?utm_source=thursdai&utm_medium=referral&utm_campaign=thursdai&utm_id=github). It analyzes long context scenarios using transcripts from the ThursdAI.news podcast.
 
-<img width="1631" alt="image" src="https://gist.github.com/user-attachments/assets/630f2a17-131b-433c-9b4e-4601ee644e6b">
+<img width="1631" alt="image" src="https://github.com/user-attachments/assets/0ecdc68b-d3eb-4d14-8c4e-5064b279c8af">
 
 
 ## Installation
